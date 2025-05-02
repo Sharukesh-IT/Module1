@@ -4,15 +4,22 @@
 To write a Python program that prints the characters `'T'` and `'a'` using character literals.
 
 ## 🧠 Algorithm
-1. Print the character `'T'`.
-2. Print the character `'a'`.
+
 
 ## 🧾 Program
-print('T')
+a=int(input()) 
 
-print('a')
+b=int(input()) 
+
+x=complex(a,b) 
+
+print(x) 
+
+print(x.real) 
+
+print(x.imag)
 ## Output
-![Screenshot 2025-05-02 111950](https://github.com/user-attachments/assets/3ebeb4b7-8049-492a-8375-a8a4bbda3898)
+![Screenshot 2025-05-02 112140](https://github.com/user-attachments/assets/80f9c223-a5e5-4a0a-8fc8-f189a09f92e8)
 
 ## Result
 Thus, the program has been successfully executed.
