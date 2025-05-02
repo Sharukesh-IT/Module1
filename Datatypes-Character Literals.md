@@ -7,19 +7,12 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 
 ## 🧾 Program
-a=int(input()) 
+Step1: Print T 
 
-b=int(input()) 
-
-x=complex(a,b) 
-
-print(x) 
-
-print(x.real) 
-
-print(x.imag)
+Step2: Print a
 ## Output
-![Screenshot 2025-05-02 112140](https://github.com/user-attachments/assets/80f9c223-a5e5-4a0a-8fc8-f189a09f92e8)
+![Screenshot 2025-05-02 111950](https://github.com/user-attachments/assets/8bd43198-3d04-47bc-a8ea-ccb360db8ba1)
+
 
 ## Result
 Thus, the program has been successfully executed.
